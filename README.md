@@ -1,7 +1,8 @@
 
 ### README
+Quiz Platform
 
-This Django application serves as a quiz platform where teams can participate in quizzes, answer questions, and view their scores on a leaderboard.
+Welcome to our interactive quiz platform built with Django! Teams can participate in quizzes, submit answers, and track their rankings in real time through a leaderboard.
 
 #### Schema
 Here's an overview of our database schema:
